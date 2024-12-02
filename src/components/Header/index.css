@@ -1,0 +1,14 @@
+.nav-container {
+  height: 95px;
+  width: 100vw;
+  background-color: #f1f5f9;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.websiteDesign {
+  height: 60px;
+  width: 150px;
+  margin-left: 3vw;
+}

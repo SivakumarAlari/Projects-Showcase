@@ -1,0 +1,23 @@
+.eachProject {
+  height: 175px;
+  width: 180px;
+  box-shadow: 0px 4px 16px 4px #fbfbfb;
+  margin: 5px;
+  border: 2px solid #e2e8f0;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.project-image {
+  height: 120px;
+  width: 180px;
+}
+.about-project {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #475569;
+  margin: 0px;
+  margin-top: 8px;
+}

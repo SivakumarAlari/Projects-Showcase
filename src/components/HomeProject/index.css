@@ -1,0 +1,48 @@
+.unOrderList-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+}
+.error-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.something-heading {
+  font-size: 27px;
+  color: #475569;
+  font-family: 'Roboto';
+}
+.error-paragraph {
+  font-size: 18px;
+  color: #475569;
+  font-family: 'Roboto';
+}
+.retry-btn {
+  height: 35px;
+  width: 130px;
+  border: 0px;
+  border-radius: 5px;
+}
+.select-design {
+  height: 37px;
+  width: 310px;
+  margin-left: 7vw;
+  box-shadow: 0px 4px 16px 4px #fbfbfb;
+  border-radius: 5px;
+  margin-top: 2vh;
+  outline: none;
+}
+.notFoundImg {
+  height: 370px;
+  width: 300px;
+}
+.selectAndOutputContainer {
+  display: flex;
+  flex-direction: column;
+}
